@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Smoked salmon burger",
+    "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/tk%2Fphoto%2F2025%2F06-2025%2F2025-06-burger-doneness-guide%2Fburger-doneness-guide-0195",
+    "time": 20,
+    "servings": 6,
+    "calories": 210,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "2",
+    "title": "Tomatoes With Creamy Feta",
+    "image": "https://assets.bonappetit.com/photos/62b4926736e0c90647da6b71/1:1/w_2560%2Cc_limit/0623-diana-yen-tomato-recipe-lede.jpg",
+    "time": 15,
+    "servings": 3,
+    "calories": 600,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "3",
+    "title": "Spicy potato salad",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqi3LOMU4OWAvgisOCTejQv8vppyzmAVi05g64JEDEP3s1RUmPf0U1LDX&s=10",
+    "time": 30,
+    "servings": 2,
+    "calories": 320,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "4",
+    "title": "Chicken Biryani",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTLETHygJZ1iGyBd7EUjwLwTLqVqBbWrtHBL1FpyvRz9j4_4aXa0_CbLs&s=10",
+    "time": 40,
+    "servings": 4,
+    "calories": 700,
+    "difficulty": "Hard"
+  }
+]
