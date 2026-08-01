@@ -44,16 +44,16 @@ export const NewListItem = styled.ul`
   height: 50px;
 `;
 export const Difficulty = styled.p`
-background-color: ${({ difficulty }) => {
-  if (difficulty >= 3) return "#e93e0f5b";
-  if (difficulty > 0) return "#e9bd0f5b";
-  return "#0fe9165b";
-}};;
-border-radius: 25px;
-height: 50px;
-width: 150px;
-display: flex;
-align-items: center;
-justify-content: center;
-color: white;
+  background-color: ${({ difficulty }) => {
+    if (difficulty === "Hard") return "#e93e0f5b";
+    if (difficulty === "Medium") return "#e9bd0f5b";
+    return "#0fe9165b";
+  }};
+  border-radius: 25px;
+  height: 50px;
+  width: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
 `;
